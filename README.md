@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Kaique Lopes
 
-💻 **Front-end Developer** | 🎨 **UX/UI Designer** | 🧠 **Educador de Tecnologia**
+💻 **Front-end Developer** | 🎨 **UX/UI Designer** | 🧠 **Educador de Tecnologia** | 🚀 **CEO at Lopes Tecnologia**
 
 Sou um entusiasta da tecnologia que acredita que o design e a programação caminham juntos.  
 Atuo na criação de interfaces intuitivas, acessíveis e visualmente impactantes — sempre com foco em inclusão digital e inovação social.  
@@ -19,12 +19,14 @@ Atuo na criação de interfaces intuitivas, acessíveis e visualmente impactante
 
 ---
 
-### 🧩 Areas of Interest
-- Front-end Development  
-- UX/UI Design  
-- DOOP & No-code Development  
-- Human-centered Design  
-- Technological Education & Inclusion  
+### 𝙖𝙗𝙤𝙪𝙩 𝙢𝙚  
+
+Studying Computer Engineering and UX/UI Design  
+Working as a Front-end Developer & Technology Educator  
+Passionate about accessibility, digital inclusion and creative tech  
+Exploring DOOP, No-code tools and FoxPro systems  
+Tools I Use: VS Code, Git, Figma, XAMPP, Node.js, PowerPro, FoxPro, Python  
+Operating Systems: Windows & Linux  
 
 ---
 
@@ -38,11 +40,3 @@ Atuo na criação de interfaces intuitivas, acessíveis e visualmente impactante
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okaiquelopes)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaique.exe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://okaiquelopes.github.io/portfolio/)
-
----
-
-### 🧠 Quote
-> “Design é como a alma do código — invisível, mas essencial pra tudo fazer sentido.”
-
----
-
