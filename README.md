@@ -1,9 +1,9 @@
 ## 👋 Hey, I'm Kaique Lopes
 
-💻 **Front-end Developer** | 🎨 **UX/UI Designer** | 🧠 **Educador de Tecnologia** | 🚀 **CEO at Lopes Tecnologia** | 🤝 **Partner at Knob Tecnologia — on the PowerPro platform**
+💻 **Front-end Developer** | 🎨 **UX/UI Designer** | 🧠 **Technology Educator** | 🚀 **CEO at Lopes Tecnologia** | 🤝 **Partner at Knob Tecnologia — on the PowerPro platform**
 
-Sou um entusiasta da tecnologia que acredita que o design e a programação caminham juntos.  
-Atuo na criação de interfaces intuitivas, acessíveis e visualmente impactantes — sempre com foco em inclusão digital e inovação social.  
+I'm a technology enthusiast who believes that design and programming go hand in hand.  
+I work on creating intuitive, accessible and visually impactful interfaces — always with a focus on digital inclusion and social innovation.
 
 ---
 
