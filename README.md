@@ -21,12 +21,12 @@ I work on creating intuitive, accessible and visually impactful interfaces — a
 
 ### 𝙖𝙗𝙤𝙪𝙩 𝙢𝙚  
 
-Studying Computer Engineering and UX/UI Design  
-Working as a Front-end Developer & Technology Educator  
-Passionate about accessibility, digital inclusion and creative tech  
-Exploring DOOP, No-code tools and FoxPro systems  
-Tools I Use: VS Code, Git, Figma, XAMPP, Node.js, PowerPro, FoxPro, Python  
-Operating Systems: Windows & Linux  
+Studying Analysis and Systems Development (ADS) and UX/UI Design
+Working as a Front-end Developer & Technology Educator
+Passionate about accessibility, digital inclusion and creative tech
+Exploring DOOP, No-code tools and FoxPro systems
+Tools I Use: VS Code, Git, Figma, XAMPP, Node.js, PowerPro, FoxPro, Python
+Operating Systems: Windows & Linux
 
 ---
 
